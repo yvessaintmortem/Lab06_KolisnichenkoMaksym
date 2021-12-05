@@ -1,0 +1,10 @@
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06\bin\Debug\Lab06.exe
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06\bin\Debug\Lab06.pdb
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06\obj\Debug\Lab06.Form1.resources
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06\obj\Debug\Lab06.exe
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06\obj\Debug\Lab06.pdb

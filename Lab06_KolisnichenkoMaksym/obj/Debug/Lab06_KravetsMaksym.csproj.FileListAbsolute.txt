@@ -1,0 +1,9 @@
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06_KravetsMaksym\bin\Debug\Lab06_KravetsMaksym.exe.config
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06_KravetsMaksym\bin\Debug\Lab06_KravetsMaksym.exe
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06_KravetsMaksym\bin\Debug\Lab06_KravetsMaksym.pdb
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06_KravetsMaksym\obj\Debug\Lab06_KravetsMaksym.Form1.resources
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06_KravetsMaksym\obj\Debug\Lab06_KravetsMaksym.Properties.Resources.resources
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06_KravetsMaksym\obj\Debug\Lab06_KravetsMaksym.csproj.GenerateResource.cache
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06_KravetsMaksym\obj\Debug\Lab06_KravetsMaksym.csproj.CoreCompileInputs.cache
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06_KravetsMaksym\obj\Debug\Lab06_KravetsMaksym.exe
+C:\Users\krave\Downloads\Lab06_KravetsMaksym\Lab06_KravetsMaksym\obj\Debug\Lab06_KravetsMaksym.pdb
